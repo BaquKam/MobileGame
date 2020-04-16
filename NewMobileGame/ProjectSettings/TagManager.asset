@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Box
   layers:
   - Default
   - TransparentFX
@@ -40,4 +41,19 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: House
+    uniqueID: 1091162735
+    locked: 0
+  - name: Background
+    uniqueID: 3254924617
+    locked: 0
+  - name: Box
+    uniqueID: 3800891007
+    locked: 0
+  - name: Player
+    uniqueID: 962374249
+    locked: 0
+  - name: Camera
+    uniqueID: 3750545843
     locked: 0
